@@ -1,2 +1,2 @@
-# auth
-Odimarket auth system
+# odimarket_auth
+Auth endpoint for odimarket
